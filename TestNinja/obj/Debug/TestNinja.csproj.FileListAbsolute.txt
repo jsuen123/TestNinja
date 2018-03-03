@@ -11,3 +11,15 @@
 /Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/EntityFramework.xml
 /Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/EntityFramework.SqlServer.xml
 /Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/Newtonsoft.Json.xml
+C:\Users\johnn\RiderProjects\TestNinja\TestNinja\bin\Debug\TestNinja.dll.config
+C:\Users\johnn\RiderProjects\TestNinja\TestNinja\bin\Debug\TestNinja.dll
+C:\Users\johnn\RiderProjects\TestNinja\TestNinja\bin\Debug\TestNinja.pdb
+C:\Users\johnn\RiderProjects\TestNinja\TestNinja\bin\Debug\EntityFramework.dll
+C:\Users\johnn\RiderProjects\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\johnn\RiderProjects\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.dll
+C:\Users\johnn\RiderProjects\TestNinja\TestNinja\bin\Debug\EntityFramework.xml
+C:\Users\johnn\RiderProjects\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\johnn\RiderProjects\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.xml
+C:\Users\johnn\RiderProjects\TestNinja\TestNinja\obj\Debug\TestNinja.csprojResolveAssemblyReference.cache
+C:\Users\johnn\RiderProjects\TestNinja\TestNinja\obj\Debug\TestNinja.dll
+C:\Users\johnn\RiderProjects\TestNinja\TestNinja\obj\Debug\TestNinja.pdb

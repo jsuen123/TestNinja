@@ -1,4 +1,5 @@
 ﻿using NUnit.Framework;
+using TestNinja.Fundamentals;
 
 namespace TestNinjaTests.Fundamentals
 {
@@ -6,9 +7,19 @@ namespace TestNinjaTests.Fundamentals
     public class Tests
     {
         [Test]
-        public void Test1()
+        [TestCase(15, "FizzBuzz" )]
+        [TestCase(12, "Fizz")]
+        [TestCase(55, "Buzz")]
+        [TestCase(56, "56")]
+        [TestCase(0, "FizzBuzz")]
+        public void GetOutput_WhenPassInNumber_ReturnResult(int number, string expected)
         {
-            Assert.True(true);
+            //Act
+            var actual = FizzBuzz.GetOutput(number);
+
+            //Assert
+            Assert.That(actual, Is.EqualTo(expected));
         }
+        
     }
 }
